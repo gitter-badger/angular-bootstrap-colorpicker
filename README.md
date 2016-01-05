@@ -1,6 +1,8 @@
 angular-bootstrap-colorpicker
 =============================
 
+[![Join the chat at https://gitter.im/lymanlai/angular-bootstrap-colorpicker](https://badges.gitter.im/lymanlai/angular-bootstrap-colorpicker.svg)](https://gitter.im/lymanlai/angular-bootstrap-colorpicker?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This version contains a native AngularJS directive based on bootstrap-colorpicker jQuery library.<br />
 No dependency on jQuery or jQuery plugin is required.<br />
 
